@@ -1,5 +1,11 @@
 ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Rakibki/Rakibki/main/image/Black%20and%20White%20Simple%20Minimalist%20Futuristic%20Gaming%20YouTube%20Banner.png "San Juan Mountains")
 
+
+## 🚀 About Me
+👋 Hi, I'm Md Rakin Mia.
+💻 Mastered Javascript and React Passionate coder turning complex problems into simple, beautiful, and intuitive solutions in my journey.
+
+
 ## 💻 Technologies that I know
 
 <div align="center">
