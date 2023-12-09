@@ -26,19 +26,13 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakibki&theme=dark)
 
-<div display="flex">
-    <div>
   <a href="https://skillicons.dev">
     <img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakibki&theme=dark />
   </a>
-</div>
-<div>
   <a href="https://skillicons.dev">
     <img src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rakibki&theme=dark
  />
   </a>
-</div>
-</div>
 
 <!--
 **Rakibki/Rakibki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
