@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](https://i.ibb.co/thcrGb4/Screenshot-8.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Rakibki/Rakibki/main/image/Black%20and%20White%20Simple%20Minimalist%20Futuristic%20Gaming%20YouTube%20Banner.png "San Juan Mountains")
 
 
 
