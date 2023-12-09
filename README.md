@@ -16,11 +16,16 @@
 
 
 
-
+## 👀 summary of my profile
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Rakibki/langs)](https://githubtrends.io)
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakibki&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rakibki&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakibki&theme=dark)
 
 
 <!--
