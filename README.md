@@ -19,23 +19,22 @@
 </div>
 
 ## 📈 Current Stats
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rakibki&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-
 
 ## 👀 summary of my profile
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakibki&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rakibki&theme=dark)
-
-
-
-
-<div align="center">
+<div>
   <a href="https://skillicons.dev">
     <img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakibki&theme=dark />
+  </a>
+</div>
+<div>
+  <a href="https://skillicons.dev">
+    <img src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rakibki&theme=dark
+ />
   </a>
 </div>
 
