@@ -1,5 +1,7 @@
-### Hi there 👋
-# HI dev
+## 💻 Technologies that I know
+
+
+
 
 <!--
 **Rakibki/Rakibki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
