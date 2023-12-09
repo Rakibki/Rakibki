@@ -35,7 +35,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src=(http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakibki&theme=dark) />
+    <img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakibki&theme=dark />
   </a>
 </div>
 
