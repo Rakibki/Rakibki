@@ -1,3 +1,8 @@
+![The San Juan Mountains are beautiful!](https://i.ibb.co/thcrGb4/Screenshot-8.png "San Juan Mountains")
+
+
+
+
 ## 💻 Technologies that I know
 
 [![My Skills](https://skillicons.dev/icons?i=js,css,html,nodejs)](https://skillicons.dev)
@@ -6,6 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=tailwindcss,bootstrap,mui,firebase)](https://skillicons.dev)
 
+ 
 ## 📈 Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rakibki&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
