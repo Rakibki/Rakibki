@@ -26,7 +26,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakibki&theme=dark)
 
-<div>
+<div display="flex">
+    <div>
   <a href="https://skillicons.dev">
     <img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakibki&theme=dark />
   </a>
@@ -36,6 +37,7 @@
     <img src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rakibki&theme=dark
  />
   </a>
+</div>
 </div>
 
 <!--
