@@ -1,5 +1,10 @@
 ## 💻 Technologies that I know
 
+[![My Skills](https://skillicons.dev/icons?i=js,css,html,nodejs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,next)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss,bootstrap,mui,firebase)](https://skillicons.dev)
 
 
 
