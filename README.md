@@ -2,7 +2,6 @@
 
 
 
-
 ## 💻 Technologies that I know
 
 [![My Skills](https://skillicons.dev/icons?i=js,css,html,nodejs)](https://skillicons.dev)
@@ -14,6 +13,15 @@
  
 ## 📈 Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rakibki&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+
+
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Rakibki/langs)](https://githubtrends.io)
+
+
+
 
 <!--
 **Rakibki/Rakibki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
