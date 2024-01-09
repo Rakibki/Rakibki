@@ -1,7 +1,7 @@
 <!-- ![The San Juan Mountains are beautiful!](https://i.ibb.co/yk6dgCK/Black-and-White-Simple-Minimalist-Futuristic-Gaming-You-Tube-Banner-1.png "San Juan Mountains") -->
 
 <div align="senter" wigth="100%">
-<img style="width: 100%;" src="https://i.ibb.co/P92HVBt/Visual-Chart-Page-Iteration-7-1.jpg" />
+<img style="width: 100%; height: 400px" src="https://i.ibb.co/P92HVBt/Visual-Chart-Page-Iteration-7-1.jpg" />
 </div>
 
  <br />
