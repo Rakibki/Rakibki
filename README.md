@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](https://media.licdn.com/dms/image/D5616AQG2rxd7g40tLA/profile-displaybackgroundimage-shrink_350_1400/0/1703049257662?e=1710374400&v=beta&t=Hbxl1sBa4-ng-oWAHqLKSZbBoRGCZv1x0yq7cgaDc7c "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://i.ibb.co/yk6dgCK/Black-and-White-Simple-Minimalist-Futuristic-Gaming-You-Tube-Banner-1.png "San Juan Mountains")
 
  <br />
 
