@@ -3,13 +3,14 @@
  <br />
 
 ## 🚀 About Me
+
 👋 Hi, I'm Md Rakin Mia. <br />
 🌍 I'm based in Dhaka, Bangladesh <br />
 🌱 I’m currently learning MERN <br />
 🖊️ Love to write code <br />
 ✉️ You can contact me at rbepari404@gmail.com
 
-
+ <br />
 
 ## 💻 Technologies that I know
 
@@ -18,6 +19,7 @@
     <img src="https://skillicons.dev/icons?i=js,css,html,nodejs,tailwindcss" />
   </a>
 </div>
+
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,express,mongodb,next,firebase" />
@@ -25,13 +27,22 @@
 </div>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,mui" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,github,figma,mui" />
   </a>
 </div>
 
+ <br />
+
 ## 📈 Current Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rakibki&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rakibki&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rakibki&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats">
+
+</img>
+</div>
+
+ <br />
 
 ## 👀 summary of my profile
 
